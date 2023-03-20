@@ -5,7 +5,7 @@
 
 | Ex No.        | Experiment         | Description    | link
 | :------------- | :---------- | :---------- | :-------
-| 1 | Implementation of Univariate Linear Regression to fit a straight line using least squares.  | To write a  univariate Linear Regression to fit a straight line using least squares | [Here](https://pages.github.com/).
+| 1 | Implementation of Univariate Linear Regression to fit a straight line using least squares.  | To write a  univariate Linear Regression to fit a straight line using least squares | [redirect](https://pages.github.com/).
 
 
 
