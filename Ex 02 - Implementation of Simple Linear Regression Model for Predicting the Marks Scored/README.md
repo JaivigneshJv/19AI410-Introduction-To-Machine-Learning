@@ -89,3 +89,6 @@ print("RMSE:", rmse)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
+
+## Colab:
+https://colab.research.google.com/drive/1Cz2Fudz4rbt0aXKGcWAr4-AXxbwJku_4?usp=sharing
