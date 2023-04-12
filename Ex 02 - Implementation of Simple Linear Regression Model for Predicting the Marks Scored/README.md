@@ -82,13 +82,31 @@ print("RMSE:", rmse)
 ```
 
 ## Output:
-<img width="576" alt="Screenshot 2023-04-02 at 10 43 39 PM" src="https://user-images.githubusercontent.com/71516398/229368293-cfbc914c-05a0-43a1-8d3e-17b4d343a57f.png">
-<img width="576" alt="Screenshot 2023-04-02 at 10 43 45 PM" src="https://user-images.githubusercontent.com/71516398/229368298-0f6e29a6-7d8a-441a-ba15-25a6fc0a4bed.png">
-<img width="409" alt="Screenshot 2023-04-02 at 10 43 58 PM" src="https://user-images.githubusercontent.com/71516398/229368300-6033ba84-9b65-4d05-b757-d5698aad8de8.png">
+
+Head and Tail for the dataframe
+
+<img width="276" alt="Screenshot 2023-04-12 at 2 12 07 PM" src="https://user-images.githubusercontent.com/71516398/231403124-6ced8352-3c83-43a4-818c-2147cf3e8357.png">
+
+Array value of X -\
+<img width="276" alt="Screenshot 2023-04-12 at 2 12 17 PM" src="https://user-images.githubusercontent.com/71516398/231403193-297ac257-4436-47ec-96aa-17bd1951fbc9.png">
+
+Array Value of Y -\
+<img width="700" alt="Screenshot 2023-04-12 at 2 12 33 PM" src="https://user-images.githubusercontent.com/71516398/231403225-ed08b779-8ac8-4d0e-8ce9-5a28125558b0.png">
+
+Values of Y prediction and Y test\
+<img width="683" alt="Screenshot 2023-04-12 at 2 12 45 PM" src="https://user-images.githubusercontent.com/71516398/231403244-2d4efff3-9dfd-4067-ac72-602d70e38771.png">
+
+Training Set Graph\
+<img width="685" alt="Screenshot 2023-04-12 at 2 12 54 PM" src="https://user-images.githubusercontent.com/71516398/231403290-0b289bed-f8b4-404a-919c-8c14d03feba1.png">
+
+Test Set Graph\
+<img width="685" alt="Screenshot 2023-04-12 at 2 12 59 PM" src="https://user-images.githubusercontent.com/71516398/231403393-eaf5ecbb-15fc-4f74-8e16-32836a553c9a.png">
+
+Values of MSE , MAE and RMSE
+
+<img width="295" alt="Screenshot 2023-04-12 at 2 13 10 PM" src="https://user-images.githubusercontent.com/71516398/231403480-5b0d9b6a-8cbf-4c35-9479-d7895503fedd.png">
 
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
 
-## Colab:
-https://colab.research.google.com/drive/1Cz2Fudz4rbt0aXKGcWAr4-AXxbwJku_4?usp=sharing
