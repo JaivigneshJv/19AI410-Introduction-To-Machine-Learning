@@ -95,11 +95,18 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Output:
 
-<img width="611" alt="Screenshot 2023-04-02 at 9 47 09 PM" src="https://user-images.githubusercontent.com/71516398/229365971-1b33f402-40d0-47ad-b2cf-52cbc3b26c6b.png">
-<img width="726" alt="Screenshot 2023-04-02 at 9 47 35 PM" src="https://user-images.githubusercontent.com/71516398/229365975-efd1e961-9979-4d75-a24f-e28d7c964cf3.png">
-<img width="717" alt="Screenshot 2023-04-02 at 9 47 46 PM" src="https://user-images.githubusercontent.com/71516398/229365976-528d32b4-9600-4d03-b88e-ab72feb36768.png">
-<img width="717" alt="Screenshot 2023-04-02 at 9 47 55 PM" src="https://user-images.githubusercontent.com/71516398/229365978-c9f51cd6-864d-4833-8b6b-9df5288255c6.png">
-<img width="780" alt="Screenshot 2023-04-02 at 9 48 10 PM" src="https://user-images.githubusercontent.com/71516398/229365979-58a9d40c-de7f-447e-bb98-3f2757012871.png">
+1.Compute Cost Value<br>
+<img width="235" alt="Screenshot 2023-05-16 at 10 23 12 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/0f9cd821-0780-4ca8-bdfa-2f423419d74f"><br>
+2.h(x) Value<br>
+<img width="235" alt="Screenshot 2023-05-16 at 10 23 16 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/098d834f-b6b9-4dc3-a3db-ee5e37403d92"><br>
+3.Cost function using Gradient Descent Graph<br>
+<img width="717" alt="Screenshot 2023-04-02 at 9 47 46 PM" src="https://user-images.githubusercontent.com/71516398/229365976-528d32b4-9600-4d03-b88e-ab72feb36768.png"><br>
+4.Profit Prediction Graph<br>
+<img width="614" alt="Screenshot 2023-05-16 at 10 30 31 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/9b5c094b-7742-4e0d-bcd9-795fbfdb90b2"><br>
+5.Profit for the Population 35,000<br>
+<img width="480" alt="Screenshot 2023-05-16 at 10 23 28 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/bd91d309-eafd-4835-94d0-0c730f955cfb"><br>
+6.Profit for the Population 70,000<br>
+<img width="480" alt="Screenshot 2023-05-16 at 10 23 33 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/30ba29c5-e6b2-4017-add0-c35dc540c58e"><br>
 
 
 
@@ -107,6 +114,3 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
-
-## Colab:
-https://colab.research.google.com/drive/12kqzu_gpHhk2Hj1AjNFjHw4GZ-fo-yFe?usp=sharing
