@@ -152,8 +152,8 @@ np.mean(predict(res.x, X) == y)
 5. X_train_grad value
 <img width="455" alt="Screenshot 2023-05-08 at 3 49 54 PM" src="https://user-images.githubusercontent.com/71516398/236802385-f7f05c6e-ffda-4f90-b102-8a9851cde847.png">
 
-6 Y_train_grad value
-<img width="455" alt="Screenshot 2023-05-08 at 3 50 01 PM" src="https://user-images.githubusercontent.com/71516398/236802388-03722d86-060e-4bdb-83bb-d08dfafc1433.png">
+6.Y_train_grad value<br>
+<img width="455" alt="Screenshot 2023-05-08 at 3 50 01 PM" src="https://user-images.githubusercontent.com/71516398/236802388-03722d86-060e-4bdb-83bb-d08dfafc1433.png"><br>
 
 7. Print res.x
 <img width="390" alt="Screenshot 2023-05-16 at 10 39 43 AM" src="https://github.com/JaivigneshJv/19AI410-Introduction-To-Machine-Learning/assets/71516398/10541c17-ba78-4e26-8396-09383e91ed78">
